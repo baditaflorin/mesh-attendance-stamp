@@ -1,7 +1,7 @@
 # mesh-attendance-stamp
 
 [![pages](https://img.shields.io/badge/live-baditaflorin.github.io%2Fmesh-attendance-stamp-0ea5e9)](https://baditaflorin.github.io/mesh-attendance-stamp/)
-[![version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/baditaflorin/mesh-attendance-stamp/blob/main/package.json)
+[![version](https://img.shields.io/badge/version-0.1.1-blue)](https://github.com/baditaflorin/mesh-attendance-stamp/blob/main/package.json)
 [![license](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 > Rotating-QR attendance — host displays a stamp that changes every 30s, attendees scan it
